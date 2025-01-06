@@ -4,7 +4,7 @@
 This project predicts user churn for an e-commerce platform by analyzing user activity data. The goal is to identify users who are likely to churn and provide actionable insights to improve retention strategies.
 
 ## Files Included
-1. **`events.csv`**: Raw dataset containing user event logs.
+1. **`events.csv`**: Raw dataset containing user event logs. Its a Large File ☹️☹️
 2. **`churn_prediction_analysis.py`**: Python script for data preprocessing, feature engineering, and modeling.
 3. **`user_features.csv`**: Processed dataset with user-level features and churn labels.
 4. **`churn_prediction_overview.md`**: Summary of the approach, results, and recommendations.
